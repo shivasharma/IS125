@@ -13,7 +13,7 @@ public class calculator {
 		System.out.println("Press(2) for substraction");
 		System.out.println("Press(3) for division");
 		System.out.println("Press(4) for multiplication");
-		System.out.println("Enter the  interger value to do the calculation");
+		System.out.println("Enter the  integer value to do the calculation");
 		opCode = scan.nextInt();
 
 		if (opCode == 1) {
